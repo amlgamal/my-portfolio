@@ -25,7 +25,6 @@ header .container {
   align-items: center;
 }
 .logo {
-
   font-size: 22px;
   font-weight: 600;
   letter-spacing: 0.5px;
@@ -263,7 +262,7 @@ header .container {
   background-color: #fff;
   padding: 50px;
   border-radius: 25px;
-  box-shadow: 0 20px 50px rgba(0,0,0,0.08);
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.08);
 }
 .form-servia label {
   display: block;
@@ -302,7 +301,6 @@ header .container {
 }
 
 @media (max-width: 768px) {
-
   /* Navbar */
   header .container {
     flex-direction: column;
